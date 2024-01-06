@@ -1,8 +1,7 @@
-Hello, I'm Anastasia Gorbatyuk
+Здравствуйте, я Анастасия Горбатюк.
 
-About me:
-- Secondary and higher education as a technician - programmer
-- I'm interested in 1C programming
-- I strive to develop in the field of 1C programming
-- Ready to intern as a 1C programmer
-- You can contact me through HeadHunter
+Обо мне:
+- Среднее и высшее образование по специальности техник-программист.
+- Стремлюсь развиваться в области программирования 1С.
+- Готова стажироваться на программиста 1С.
+- Со мной можно связаться через HeadHunter на должность 1С программист стажер.
