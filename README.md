@@ -14,8 +14,10 @@
 ![image](https://github.com/AnastasiaGorbatyuk/AnastasiaGorbatyuk/assets/155747564/78aa6c44-e8e0-4e66-b478-d7f7fe2422c7)
 ![image](https://github.com/AnastasiaGorbatyuk/AnastasiaGorbatyuk/assets/155747564/77c14813-3f27-41dc-bfdb-a950294ce936)
 ![image](https://github.com/AnastasiaGorbatyuk/AnastasiaGorbatyuk/assets/155747564/1cedd727-e23d-4b54-8a87-34412bd6feed)
-![image](https://github.com/AnastasiaGorbatyuk/AnastasiaGorbatyuk/assets/155747564/685603b8-7c10-4095-84e1-145c7be81dbd)
+![image](https://github.com/AnastasiaGorbatyuk/AnastasiaGorbatyuk/assets/155747564/b0cc34c5-9a8f-4f79-9b5d-0988c0e75269)
 ![image](https://github.com/AnastasiaGorbatyuk/AnastasiaGorbatyuk/assets/155747564/7e4de25c-78e9-4467-8bff-1346e96f23fd)
+![image](https://github.com/AnastasiaGorbatyuk/AnastasiaGorbatyuk/assets/155747564/a9550688-198b-4587-ac78-89cfdabe3c74)
+![image](https://github.com/AnastasiaGorbatyuk/AnastasiaGorbatyuk/assets/155747564/b06f3866-6eb5-4565-acd0-4b39bb68a384)
 
 💻Инструменты:
 
