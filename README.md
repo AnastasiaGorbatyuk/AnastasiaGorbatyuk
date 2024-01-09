@@ -11,20 +11,24 @@
 💻Технологии:
 
 ![image](https://github.com/AnastasiaGorbatyuk/AnastasiaGorbatyuk/assets/155747564/22599b3a-4b31-4930-8829-50a748b31db0)
-![image](https://github.com/AnastasiaGorbatyuk/AnastasiaGorbatyuk/assets/155747564/78aa6c44-e8e0-4e66-b478-d7f7fe2422c7)
-![image](https://github.com/AnastasiaGorbatyuk/AnastasiaGorbatyuk/assets/155747564/77c14813-3f27-41dc-bfdb-a950294ce936)
-![image](https://github.com/AnastasiaGorbatyuk/AnastasiaGorbatyuk/assets/155747564/1cedd727-e23d-4b54-8a87-34412bd6feed)
-![image](https://github.com/AnastasiaGorbatyuk/AnastasiaGorbatyuk/assets/155747564/b0cc34c5-9a8f-4f79-9b5d-0988c0e75269)
-![image](https://github.com/AnastasiaGorbatyuk/AnastasiaGorbatyuk/assets/155747564/7e4de25c-78e9-4467-8bff-1346e96f23fd)
-![image](https://github.com/AnastasiaGorbatyuk/AnastasiaGorbatyuk/assets/155747564/a9550688-198b-4587-ac78-89cfdabe3c74)
-![image](https://github.com/AnastasiaGorbatyuk/AnastasiaGorbatyuk/assets/155747564/b06f3866-6eb5-4565-acd0-4b39bb68a384)
+![image](https://github.com/AnastasiaGorbatyuk/AnastasiaGorbatyuk/assets/155747564/3caee776-c968-4a9f-ad8a-8b4d9551b947)
+![image](https://github.com/AnastasiaGorbatyuk/AnastasiaGorbatyuk/assets/155747564/35763f48-09e1-45d2-ae06-3b8476ccc90f)
+![image](https://github.com/AnastasiaGorbatyuk/AnastasiaGorbatyuk/assets/155747564/6e73a6c7-eb93-42ff-82a3-d6976dd413ce)
+![image](https://github.com/AnastasiaGorbatyuk/AnastasiaGorbatyuk/assets/155747564/2df8d782-e1a1-4f6a-b745-85080cec16ea)
+![image](https://github.com/AnastasiaGorbatyuk/AnastasiaGorbatyuk/assets/155747564/1713f055-bc4b-4d28-9f05-a3b947efa06a)
+![image](https://github.com/AnastasiaGorbatyuk/AnastasiaGorbatyuk/assets/155747564/4e242bb5-d0a9-434f-9514-956e4848b277)
+![image](https://github.com/AnastasiaGorbatyuk/AnastasiaGorbatyuk/assets/155747564/c1876741-fa88-4663-98a4-fe330fcaf366)
+
 
 💻Инструменты:
 
-![image](https://github.com/AnastasiaGorbatyuk/AnastasiaGorbatyuk/assets/155747564/b97fe1d7-8123-4b55-abde-7cf589945514)
-![image](https://github.com/AnastasiaGorbatyuk/AnastasiaGorbatyuk/assets/155747564/ace5fae3-de7f-4691-a40c-6a8b57f19214)
+![image](https://github.com/AnastasiaGorbatyuk/AnastasiaGorbatyuk/assets/155747564/303ddc4f-3236-478c-8a80-3dfd22aec2ea)
+![image](https://github.com/AnastasiaGorbatyuk/AnastasiaGorbatyuk/assets/155747564/42dc4f02-8123-4140-808e-b8236b9195c8)
+
+
 ![image](https://github.com/AnastasiaGorbatyuk/AnastasiaGorbatyuk/assets/155747564/30d97573-b0ab-4683-b9df-c0c34182e0f0)
 ![image](https://github.com/AnastasiaGorbatyuk/AnastasiaGorbatyuk/assets/155747564/83a926e4-b73d-4c3a-b5c1-f19cd63ed455)
+![image](https://github.com/AnastasiaGorbatyuk/AnastasiaGorbatyuk/assets/155747564/4a0d0fd5-89dc-4949-9135-d03f147b49ca)
 
 
 
